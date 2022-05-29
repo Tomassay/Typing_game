@@ -1,0 +1,17 @@
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\bin\Debug\net6.0-windows\Typing_Game.exe
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\bin\Debug\net6.0-windows\Typing_Game.deps.json
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\bin\Debug\net6.0-windows\Typing_Game.runtimeconfig.json
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\bin\Debug\net6.0-windows\Typing_Game.dll
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\bin\Debug\net6.0-windows\Typing_Game.pdb
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.Form1.resources
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.AssemblyInfo.cs
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.dll
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\refint\Typing_Game.dll
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.pdb
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\Typing_Game.genruntimeconfig.cache
+C:\Users\tomas\source\repos\Typing_Game\Typing_Game\obj\Debug\net6.0-windows\ref\Typing_Game.dll
